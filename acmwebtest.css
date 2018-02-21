@@ -10,5 +10,16 @@ body {
 
 /*Change CSS for all of the footer tag*/
 footer {
+	text-align:center;
+	bottom:0;
+}
 
+.links{
+	margin: 0 10px 0 10px;
+}
+
+.resize{
+	width:540px;
+	height:auto;
+	margin: 100px 300px 100px 300px;
 }
